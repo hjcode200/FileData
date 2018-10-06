@@ -1,2 +1,2 @@
 # FileData
-Example of argument parsing in a console app
+FileData.exe (-s | -v) filenane
